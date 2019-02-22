@@ -1,4 +1,4 @@
-# This is a configuration file for Ingress Ice (github.com/nibogd/ingress-ice)
+# This is a configuration file for Ingress Ice (github.com/3ch01c/ingress-ice)
 # Insert your settings here (after '=' without spaces). Only first three settings (login, password and area link) are mandatory.
 #
 # After modifying this file, save it and close the editor. Ice will start automatically.
@@ -8,7 +8,7 @@
 login=
 password=
 #> Your area link. To get it, visit http://ingress.com/intel, scroll the map to your location and press [LINK] at the top right corner. Copy that link and paste it here.
-#> e. g. https://www.ingress.com/intel?ll=53.502328,49.41516&z=14
+#> e. g. https://intel.ingress.com/intel?ll=53.502328,49.41516&z=14
 area=
 
 [ice-optional]
@@ -23,7 +23,7 @@ height=768
 #> Inject IITC? (true/false)
 iitc=false
 plugins=["https://static.iitc.me/build/release/plugins/link-show-direction.user.js"]
-# Read more at https://github.com/nibogd/ingress-ice/wiki/Loading-IITC-plugins
+# Read more at https://github.com/3ch01c/ingress-ice/wiki/Loading-IITC-plugins
 pluginsConfig=[{"key":"plugin-linkshowdirection-mode","value":"Static near origin"},{"key":"iitc-base-map","value":"Google Roads"}]
 #> Put a timestamp on your screenshots? (true/false)
 timestamp=true

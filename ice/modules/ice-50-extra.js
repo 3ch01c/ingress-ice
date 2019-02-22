@@ -63,6 +63,7 @@ function addTimestamp(time, iitcz) {
  * @var pluginsConfig
  * @author akileos (https://github.com/akileos)
  * @author Nikitakun
+ * @author 3ch01c
  */
 function addIitc() {
   page.evaluate(function(field, link, res, enl, min, max) {

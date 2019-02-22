@@ -1,9 +1,9 @@
 /**
  * @file Ingress-ICE, the main script
- * @author nibogd (https://github.com/nibogd)
+ * @author 3ch01c (https://github.com/3ch01c)
  * @version 4.5.1
  * @license MIT
- * @see {@link https://github.com/nibogd/ingress-ice|GitHub }
+ * @see {@link https://github.com/3ch01c/ingress-ice|GitHub }
  * @see {@link https://ingress.netlify.com/|Website }
  */
 

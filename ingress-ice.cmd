@@ -2,7 +2,7 @@
 @echo off
 SETLOCAL EnableDelayedExpansion
 REM ingress-ice start script
-REM (http://github.com/nibogd/ingress-ice)
+REM (http://github.com/3ch01c/ingress-ice)
 REM Double-click this file and follow the
 REM instructions
 
@@ -57,5 +57,5 @@ echo Options:
 echo   -r      Edit the configuration
 echo   -h      Print this help
 echo.
-echo Please visit https://ingress.netlify.com/ or http://github.com/nibogd/ingress-ice for more information
+echo Please visit https://ingress.netlify.com/ or http://github.com/3ch01c/ingress-ice for more information
 :eof
